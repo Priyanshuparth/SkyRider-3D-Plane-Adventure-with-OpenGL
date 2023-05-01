@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1682955389 source:c:\users\priyanshu\desktop\cg project final\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+	<mmsystem.h>
+	<stdlib.h>
+
+1499272588 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
