@@ -49,3 +49,9 @@ This project is a 3D game environment developed using OpenGL, providing players 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Screenshot 
+
+![dfw](https://github.com/Priyanshuparth/SkyRider-3D-Plane-Adventure-with-OpenGL/assets/73892924/ef79e950-a22a-496c-ac3d-8c3ae4fb898b)
+![dsvds](https://github.com/Priyanshuparth/SkyRider-3D-Plane-Adventure-with-OpenGL/assets/73892924/b15776da-d7b4-4453-8849-1f2695030fde)
+![cadscsad](https://github.com/Priyanshuparth/SkyRider-3D-Plane-Adventure-with-OpenGL/assets/73892924/22d11589-d5ab-47d3-af21-46e0ea1432e7)
